@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class Collections4 {
+public class Collections04 {
     public static void main(String[] args) {
         //Bir ArrayList oluşturalım ve istenen sıradaki elemanı güncelleyelim.
         //Array Elemanları: sari,yesil,mavi,pembe

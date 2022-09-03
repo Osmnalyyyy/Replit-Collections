@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Collections1 {
+public class Collections01 {
     public static void main(String[] args) {
         //Bir ArrayList oluşturun ve array elemanlarını tek tek yazdırın.
         //Array elemanları:  siyah,sari,mavi,turuncu

@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class Collections2 {
+public class Collections02 {
     public static void main(String[] args) {
         // Array list oluşturun daha sonra aşağıda belirtilen yerlere yeni array
         // elemanlarını ekleyen java kodunu yazınız.

@@ -1,7 +1,7 @@
 import java.util.LinkedList;
 import java.util.ListIterator;
 
-public class Collections9 {
+public class Collections09 {
     public static void main(String[] args) {
         //Bir LinkedList oluşturalım ve Iterator yöntemi ile tersten yazdıralım.
         //LinkedList elemanları: sari,mavi,yesil,kirmizi,beyaz,mor

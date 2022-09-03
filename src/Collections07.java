@@ -1,7 +1,7 @@
 import java.util.LinkedList;
 import java.util.ListIterator;
 
-public class Collections7 {
+public class Collections07 {
     public static void main(String[] args) {
         //bir LinkedList oluşturalım ve Iterator methodunu kullanarak listedeki elemanlardan
         // istenilen pozisyondan başlayarak listeyi yazdıralım.

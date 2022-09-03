@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class Collections3 {
+public class Collections03 {
     public static void main(String[] args) {
         //Bir ArrayList oluşturalım ve birinci ve üçüncü elemanlarını yazdıralım.
         //ArrayList elemanları:  beyaz,siyah,sari,kirmizi,turuncu

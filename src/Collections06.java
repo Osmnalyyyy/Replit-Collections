@@ -3,7 +3,7 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class Collections6 {
+public class Collections06 {
     public static void main(String[] args) {
         // Bir LinkedList oluşturalım ve tüm elemanlarını tek tek yazdıralım.
         //LinkedList elemanları: sari,mavi,mor,yesil,beyaz

@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class Collections5 {
+public class Collections05 {
     public static void main(String[] args) {
         //Bir ArrayList oluşturum ve önce ArrayListi yazdıralım sonra index numarasına göre tek tek yazdıralım.
         //ArrayList: siyah,mavi, kirmizi,yesil,mor,turuncu
